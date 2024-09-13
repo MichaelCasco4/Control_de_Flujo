@@ -1,0 +1,10 @@
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\bin\Debug\Evaluacion 2.exe.config
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\bin\Debug\Evaluacion 2.exe
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\bin\Debug\Evaluacion 2.pdb
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion 2.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion_2.Form1.resources
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion_2.Properties.Resources.resources
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion 2.csproj.GenerateResource.cache
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion 2.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion 2.exe
+C:\Users\diede\Desktop\Metodología\Sistemático\Sistemático 1\Evaluacion 2\Evaluacion 2\obj\Debug\Evaluacion 2.pdb

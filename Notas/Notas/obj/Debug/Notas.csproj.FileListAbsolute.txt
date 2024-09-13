@@ -1,0 +1,30 @@
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\solie\OneDrive\Documentos\micahel casco\Notas\Notas\obj\Debug\Notas.pdb
